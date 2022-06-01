@@ -8,6 +8,7 @@
         veritatis placeat accusamus deserunt libero! Perferendis alias
         distinctio, quod ex repellat dolorem.
       </p>
+      <p>{{ data2 }}</p>
       <button class="button btn">Start Looking</button>
     </div>
     <img
