@@ -3,7 +3,7 @@
     <div class="hero-container">
       <img
         :src="require(`@/assets/images/${product.image}`)"
-        alt=""
+        alt="product"
         class="image"
       />
       <div class="info-box">
